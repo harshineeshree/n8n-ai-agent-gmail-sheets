@@ -124,18 +124,6 @@ The final output is appended back into Google Sheets for record keeping.
 
 ## Repository Structure
 
-Current uploaded structure:
-
-```text
-repository-name/
-|
-|-- README.md
-|-- workflow-preview.png
-|-- workflow.json
-```
-
-Recommended structure if you want to organize it further:
-
 ```text
 repository-name/
 |
@@ -147,12 +135,7 @@ repository-name/
 |
 |-- screenshots/
 |   |-- workflow-preview.png
-```
 
-If you move the screenshot into the `screenshots` folder, update the image path in this README to:
-
-```md
-![Workflow Screenshot](screenshots/workflow-preview.png)
 ```
 
 ## Installation
