@@ -27,10 +27,6 @@ It is useful for automating spreadsheet-based communication tasks where data nee
 - End-to-end no-code workflow automation
 - Easy to customize for other spreadsheet and email use cases
 
-## Workflow Screenshot
-
-![Workflow Screenshot](workflow-preview.png)
-
 ## Workflow Architecture
 
 ```mermaid
